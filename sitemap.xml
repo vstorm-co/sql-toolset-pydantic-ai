@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://vstorm-co.github.io/database-pydantic-ai/</loc>
+         <lastmod>2026-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://vstorm-co.github.io/database-pydantic-ai/backends/</loc>
+         <lastmod>2026-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://vstorm-co.github.io/database-pydantic-ai/changelog_template/</loc>
+         <lastmod>2026-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://vstorm-co.github.io/database-pydantic-ai/examples/</loc>
+         <lastmod>2026-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://vstorm-co.github.io/database-pydantic-ai/installation/</loc>
+         <lastmod>2026-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://vstorm-co.github.io/database-pydantic-ai/toolset/</loc>
+         <lastmod>2026-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://vstorm-co.github.io/database-pydantic-ai/api/</loc>
+         <lastmod>2026-02-07</lastmod>
+    </url>
+</urlset>
